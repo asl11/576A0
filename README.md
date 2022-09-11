@@ -1,0 +1,1 @@
+This is the dummy project to verify that I know how to use github and pycharm for comp 576 assignment 0. 
